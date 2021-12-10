@@ -1,0 +1,253 @@
+
+
+
+body{
+  
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+ 
+    font-size: 12px;
+   
+    text-transform: uppercase;
+    color: #333;
+    
+    letter-spacing: 1.6px;
+    
+ 
+    background-color: #fff;
+    margin-left: 85px;
+    margin-right: 80px;
+   
+    text-transform: uppercase;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+
+.container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row{
+    margin-right: -18px;
+    margin-left: -18px;
+}
+
+
+
+
+img {
+    width: 17px;
+    display: inline-block;
+    vertical-align: bottom;
+    margin-right: 5px;
+    margin-left: 5px;
+    max-width: calc(100% - 10px);
+    text-align: center
+}
+.menu{
+    display: flex;
+}
+.menu1{
+    width: 41.66666667%;
+    margin-right: 220px;
+}
+.espacio input{
+  
+    font-size: 14px;
+    color: #000;
+    
+    width: 200px;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+}
+
+.buscador{
+  width: 14px;
+  margin-bottom: 4px;
+}
+.menu2{
+    display: flex;
+    margin-top: -5px;
+}
+.espacio{
+    margin-right: 16px;
+    margin-top: 10px;
+    
+}
+
+.espacio img {
+    width: 15px;
+}
+.espacio-pais{
+   
+    margin-top: 10px;
+}
+.espacio-pais img{
+    width: 28px;
+   
+}
+
+
+
+
+
+
+    .nav-banner{
+        padding-top: 20px;
+    }
+.nav-banner img{
+margin-left: 330px;
+margin-right: auto;
+width: 50%;
+}
+
+.menu-inferior{
+    margin-top: 45px;
+}
+.inferior{
+    display: flex;
+    
+}
+.inferior li a {
+    font-size: 15px;
+    padding-left: 150px;
+}
+
+.main-banner{
+    margin-top: 25px;
+}
+
+.main-banner img{
+    width: 1800px;
+    height: auto;
+}
+#arrivals{
+    margin-top: 40px;
+    padding-top: 100px;
+    height: 600px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.new{
+    display: flex;
+    position: relative;
+    
+    
+}
+
+.new-arrow{
+    position: absolute;
+    top: 40%;
+}
+
+.arrow--left{
+left: 0;
+
+}
+.arrow--right{
+right: 0;
+
+}
+
+
+.new img{
+    margin-top: 10px;
+    width: 400px;
+}
+
+
+.banner-new img{
+    width: 100%;
+    justify-content: space-around;
+} 
+#guide{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+   font-size:25px ;
+}
+.style{
+    display: flex;
+  
+}
+.style img{
+    margin-top: 5px;
+    width: auto;
+    max-height: 1000px;
+} 
+.shop a{
+font-size: 18px;
+}
+#handbags{
+    margin-top: 50px;
+    padding-top: 100px;
+    height: 600px;
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+}
+#instagram{
+    margin-top: 40px;
+    padding-top: 100px;
+    height: 600px;
+    text-align: center; 
+    font-size: 25px;
+}
+svg{
+    position: absolute;
+    width: 50px;
+    
+
+}
+main{
+    margin-bottom: -100px;
+}
+
+footer{
+    margin-bottom: 100px;
+}
+.footer-flex{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.social-flex{
+    display: flex;
+}
+.distance{
+    margin-right: 100px;
+}
+.distance2{
+    margin-right: 650px;  
+}
+.distance3{
+    margin-right: 20px;
+}
+
+.renta{
+    margin-bottom: 20px;
+}
+.social-width img{
+    width: 25px;
+}
+.email input{
+    width: 290px;
+    height: 32px;
+   
+}
